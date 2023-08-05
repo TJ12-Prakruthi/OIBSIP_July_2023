@@ -13,14 +13,14 @@ This repository is the tasks given by Oasis InfoByte Company for the Summer Inte
 
 **Dataset Link:** https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
-**LinkedIn Posted Link:**
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task1-datascience-activity-7093608037478744064-JnZ6?utm_source=share&utm_medium=member_desktop
 
 # TASK - 2
 ### Unemployment Analysis with Python
 Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
 **Dataset Link:** https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
-**LinkedIn Posted Link:** 
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task2-datascience-activity-7093608684341096448-5Uo5?utm_source=share&utm_medium=member_desktop
 
 # TASK - 3
 ### Car Price Prediction with Machine Learning
@@ -28,7 +28,7 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
 
 **Dataset Link:** https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download
 
-**LinkedIn Posted Link:** 
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task3-datascience-activity-7093608971323736064-JDb5?utm_source=share&utm_medium=member_desktop
 
 # TASK - 4
 ### Email Spam Detection with Machine Learning
@@ -36,7 +36,7 @@ We’ve all been the recipient of spam emails before. Spam mail, or junk mail, i
 
 **Dataset Link:** https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-**LinkedIn Posted Link:** 
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task4-datascience-activity-7093610111650164736-zS_2?utm_source=share&utm_medium=member_desktop
 
 # TASK - 5
 ### Sales Prediction with Python
@@ -44,4 +44,4 @@ Sales prediction means predicting how much of a product people will buy based on
 
 **Dataset Link:** https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
-**LinkedIn Posted Link:** 
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task5-datascience-activity-7093610471638933504-Uotf?utm_source=share&utm_medium=member_desktop
